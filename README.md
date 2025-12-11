@@ -24,10 +24,6 @@
 - Send and receive text messages instantly between connected devices  
 - Messages appear in a familiar chat-style conversation screen  
 
-### 📝 Chat History
-- Keeps recent conversations on the device so users can revisit chats  
-- Messages are stored locally, not on any remote server  
-
 ### 🎨 Simple, User-Friendly UI
 - Minimal, clean layout focused on the chat experience  
 - Straightforward flows: connect → chat → disconnect  
